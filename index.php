@@ -9,14 +9,8 @@
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif&amp;subset=latin-ext" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <?php
-        include 'ganaly-js.php';
-    ?>
 </head>
 <body>
-    <?php
-        include 'ganaly-php.php';
-    ?>
         <header>
            <hgroup>
                 <h1>Mieszko Dziadowiec</h1>
