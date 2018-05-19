@@ -130,6 +130,8 @@ main img{
 
 main h3 a:hover{
     color: #faec5c;
+    text-shadow: 2px 0px 3px rgba(0, 0, 0, 0.5);
+    transition: all 0.1s cubic-bezier(0.02, 0.7, 0.99, 0.56);
 }
 
 
